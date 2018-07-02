@@ -1,0 +1,16 @@
+How do diff help?
+this helps a lot in easy spotting of errornous changes made by chance which we are not supposed to manually go deep into
+How does keeping a history help in long run?
+it helps a lot in the long run to us in becomming an efficient programmer as we can restore the previous version if we make an errorneous change to the new one or loose the recent one we have a handy copy with least errors with us
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+it gives a lot of flexibility to the user to choose when he/she wishes to save not making the saved versions uncompileable or obsolete
+but it has cons such that it sometimes becomes very difficult for the users to decide when to commit sometimes it becomes so short a duration and sometimes too long one so one has to have an idea about when to commit.
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+because maybe they allow us to have projects or things with interrelated files so that we can commit each file in the repository
+How can you use the commands git log and git diff to view the history of files?
+we can use git log to see all the chnges we have made to the file and we can even leave comments regarding thr commits 
+and git diff is used to see the diff in two commits which all lines of code got modified from previous to the new commit.
+How might using version control make you more confident to make changes that could break something?
+this gives more sort of confidence on making changes as we know if anything wrong happens we can always go to the error free commit and can use the diff command to check which of the modifications of ours introduced the error.
+How Do You Want to Use Git?
+i want to use git to perform a lot of version control on all my programs and future projects so that the finding of errors manually is tough no more remains so using git.
