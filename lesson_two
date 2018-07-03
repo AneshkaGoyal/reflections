@@ -2,3 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 when i initialsed my new reprository the .git directory was incorporated withih the already existant directory to convert it to a repository and its necessayr in order to keep track of my work using git.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 in git inoder to commit a repository we need to add the files in the stagging area so that we can operate the commit command on it.
+How can you use the staging area to make sure you have one commit per logical change?
+we can just add one logically modified file to the stagging area at a given time.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches are usefull when we donot intend to change our normal stream but perform an experiment which we might not want to cause changes to our master stream.
+How do the diagrams help you visualize the branch structure?
+diagram give a pictorial representation of what we want to say thus gives a better understanding of the concerned topic reducing the chances of misunderstanding.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+we merge two branches when we want the two to be accessed by the same master branch and we show that diagramatically to make it all the more clear what it would actually look like after the merge is completed.
+
